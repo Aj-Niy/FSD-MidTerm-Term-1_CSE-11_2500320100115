@@ -6,6 +6,8 @@ Technologies Used : express.js , Node.js
 
 Requests :
     POST-api/books
+    POST-api/books/:id/issue
+    POST-api/books/:id/return
     GET-api/books
     GET-api/books/:id
     GET-api/books/search?title=java
